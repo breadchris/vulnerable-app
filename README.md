@@ -6,3 +6,4 @@ Intentionally vulnerable apps that are used to test LunaTrace.
 
 asdf
 asdf
+asdf
